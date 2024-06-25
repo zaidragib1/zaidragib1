@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Zaid Ragib</h1>
 <h3 align="center">I'm a final year Computer Science Engineering student at IIIT Dharwad with a passion for software development and problem-solving. I'm actively looking for SDE internship opportunities to apply my skills in real-world scenarios and make impactful contributions.</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="Coding" width="500" height="300"/>
+</p>
+
 - 🔭 I’m currently working on [DonateDrift](https://github.com/zaidragib1/DonateDrift)
 
 - 🌱 I’m currently learning **ReactJs**
@@ -25,7 +29,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
 </a> 
@@ -93,4 +97,8 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
 </a> 
 </p>
+
+
+
+
 
