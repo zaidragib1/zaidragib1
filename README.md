@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **21bcs069@iiitdwd.ac.in**
 
-- 📄 Know about my experiences [![Resume](https://img.shields.io/badge/Resume-View-orange)](https://drive.google.com/file/d/1UTBxDigWxR29ybTdjuWq1Cj9Tlbm8GDk/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/zaidragib1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zaidragib1" height="30" width="40" /></a>
