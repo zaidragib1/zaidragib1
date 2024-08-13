@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zaid Ragib</h1>
-<h3 align="center">I'm a final year Computer Science Engineering student at IIIT Dharwad with a passion for software development and problem-solving. I'm actively looking for SDE internship opportunities to apply my skills in real-world scenarios and make impactful contributions.</h3>
+<h3 align="center">I'm a final year Computer Science Engineering student at IIIT Dharwad with a passion for software development and problem-solving.</h3>
 
 
 - 🔭 I’m currently working on [DonateDrift](https://github.com/zaidragib1/DonateDrift)
