@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/zaidragib1?tab=repositories)
+- 👨‍💻 Click Here to see All my Repositories [Click me!](https://github.com/zaidragib1?tab=repositories)
 
 - 💬 Ask me about **Backend Development**
 
