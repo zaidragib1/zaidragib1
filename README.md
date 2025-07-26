@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zaid Ragib</h1>
-<h3 align="center">I'm a final year Computer Science Engineering student at IIIT Dharwad with a passion for software development and problem-solving.</h3>
+<h3 align="center">I'm working as SDE-1 at IBM-Cloud and graduated from IIIT Dharwad</h3>
 
 
 - 🔭 I’m currently working on [DonateDrift](https://github.com/zaidragib1/DonateDrift)
